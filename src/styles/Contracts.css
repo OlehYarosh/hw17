@@ -1,0 +1,37 @@
+.contracts {
+    max-width: 400px;
+    margin: 15px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ccc;
+}
+  
+.search-input {
+    width: 94.7%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+  
+.gender-status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+  
+.gender-status label {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+  
+.gender-status input[type="checkbox"] {
+    margin-right: 5px;
+}
+  
